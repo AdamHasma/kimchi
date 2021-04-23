@@ -1,0 +1,70 @@
+﻿body
+{
+  font-family: 'Maiandra GD', sans-serif;
+  font-size: 14pt;
+
+  color: #000000;
+  background: #E2E2E2;
+
+  white-space: pre-wrap;
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 100px;
+
+
+}
+
+rt
+{
+  color: #000000;
+}
+
+a:link
+{
+  text-decoration: none;
+  color: #000000;
+}
+
+a:visited
+{
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover
+{
+  text-decoration: none;
+  color: #000000;
+}
+
+a:active
+{
+  text-decoration: none;
+  color: #000000;
+}
+
+a.nav:link
+{
+  text-decoration: underline;
+  color: #000000;
+}
+
+a.nav:visited
+{
+  text-decoration: underline;
+  color: #000000;
+}
+
+a.nav:hover
+{
+  text-decoration: underline;
+  color: #000000;
+}
+
+a.nav:active
+{
+  text-decoration: underline;
+  color: #000000;
+}
